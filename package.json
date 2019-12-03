@@ -1,5 +1,5 @@
 {
-  "name": "cache",
+  "name": "github-actions-cache",
   "version": "1.0.3",
   "private": true,
   "description": "Cache dependencies and build outputs",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/cache.git"
+    "url": "git+https://github.com/taku-o/github-actions-cache.git"
   },
   "keywords": [
     "actions",
